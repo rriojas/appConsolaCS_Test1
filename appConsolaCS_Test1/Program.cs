@@ -10,7 +10,8 @@ namespace appConsolaCS_Test1
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hola");
+      Console.WriteLine("Hola ..");
+      Console.WriteLine("Mundo");
       Console.ReadKey();
     }
   }
